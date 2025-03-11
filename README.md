@@ -26,6 +26,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Epyon-Nebula/Epyon-Nebula/output/snake.svg" alt="Snake animation" />
-
 ###
