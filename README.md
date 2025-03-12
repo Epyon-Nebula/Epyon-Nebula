@@ -2,7 +2,7 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+this+is+my+Github+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=9D1AF7&width=435&lines=Hello+this+is+my+Github+profile.;I+am+a+intrested+in+Pentesting+and+Offensive+security+)](https://git.io/typing-svg)
 
 ###
 ![image alt](https://github.com/Epyon-Nebula/Epyon-Nebula/blob/28e3d9cf43506da3cc8d78cbf8e47d01418c9907/Epyon-eyes.gphy.gif)
