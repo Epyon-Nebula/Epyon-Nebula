@@ -2,7 +2,7 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=200&size=19&pause=1000&color=9D1AF7&center=true&multiline=true&width=435&lines=Hello+this+is+my+Github+profile,;The+quieter+you+become,+the+more+you+can+hear.+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=200&size=16&pause=1000&color=9D1AF7&center=true&multiline=true&width=435&lines=Hello+this+is+my+Github+profile,;The+quieter+you+become,+the+more+you+can+hear.+)](https://git.io/typing-svg)
 
 ###
 ![image alt](https://github.com/Epyon-Nebula/Epyon-Nebula/blob/28e3d9cf43506da3cc8d78cbf8e47d01418c9907/Epyon-eyes.gphy.gif)
