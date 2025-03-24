@@ -21,6 +21,8 @@
   <img src="https://cdn.simpleicons.org/opensuse/73BA25" height="40" alt="opensuse logo"  />
 </div>
 
+![tryhackme stats](https://raw.githubusercontent.com/Epyon-Nebula/Epyon-Nebula/master/assets/thm_propic.png)
+
 ###
 
 ###
