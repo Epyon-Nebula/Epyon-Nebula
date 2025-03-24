@@ -24,6 +24,8 @@
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-8A2BE2?style=for-the-badge&logo=tryhackme&logoColor=FF0000)](https://tryhackme.com/p/EpyonNebula)
 
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 ###
 
 ###
