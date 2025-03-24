@@ -22,6 +22,8 @@
 </div>
 
 ![tryhackme stats](https://raw.githubusercontent.com/Epyon-Nebula/Epyon-Nebula/master/assets/thm_propic.png)
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2818278" style='border:none;'></iframe>
+
 
 ###
 
