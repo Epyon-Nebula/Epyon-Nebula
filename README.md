@@ -21,7 +21,7 @@
   <img src="https://cdn.simpleicons.org/opensuse/73BA25" height="40" alt="opensuse logo"  />
 </div>
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/2818278.png)
+![TryHackMe Badge](https://raw.githubusercontent.com/Epyon-Nebula/Epyon-Nebula/main/assets/badge.png)
 
 
 ###
