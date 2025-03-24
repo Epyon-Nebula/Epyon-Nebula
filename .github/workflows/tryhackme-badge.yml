@@ -1,0 +1,31 @@
+name: Update TryHackMe Badge
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+
+      - name: Create assets directory if it doesn't exist
+        run: mkdir -p assets
+
+      - name: Fetch TryHackMe Badge
+        run: |
+          # Replace YOUR_USER_PUBLIC_ID with your actual THM user ID
+          curl https://tryhackme-badges.s3.amazonaws.com/2818278.png -o assets/thm_badge.png
+
+      - name: Commit and push if changed
+        run: |
+          git add assets/thm_badge.png
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update TryHackMe badge" && git push)
