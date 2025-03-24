@@ -23,7 +23,7 @@
 
 
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-8A2BE2?style=for-the-badge&logo=tryhackme&logoColor=FF0000)
-
+![TryHackMe](https://img.shields.io/badge/TryHackMe-FF0000?style=for-the-badge&logo=tryhackme&logoColor=8A2BE2)
 ###
 
 ###
